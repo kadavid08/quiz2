@@ -5,3 +5,6 @@ function szamol() {
 
     console.log(szelesseg)
     console.log(hossz)
+
+    let magassagertek = document .getElementById("magassagertek")
+    magassagertek.innerText = magassag
